@@ -26,5 +26,3 @@ print(x, y, num)
 # - uppercase is by convention reserved for classes
 #
 ###################################################
-
-asd
